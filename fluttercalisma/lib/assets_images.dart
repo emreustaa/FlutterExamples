@@ -36,7 +36,7 @@ main(List<String> args) {
                         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                         children: <Widget>[
                           Image.asset(
-                            "assets/images/beyazitdevlet.jpg",
+                            "url",
                           ),
                           Text("Asset Image"),
                         ],
